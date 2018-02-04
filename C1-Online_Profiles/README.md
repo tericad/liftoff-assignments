@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+[Terica's GitHub](https://github.com/tericad)
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[Terica's Linkedin](www.linkedin.com/in/terica-donnelly-69726b3)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo.
+[Terica's Resume](https://github.com/tericad/liftoff-assignments/blob/master/C1-Online_Profiles/Resume.pdf)
